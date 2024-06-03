@@ -1,6 +1,6 @@
 const info = [
   {
-    'name': 'Emreee Taştekin',
+    'name': 'Emre Taştekin',
     'message': 'Hey, how are you doing?',
     'time': '3:53 pm',
     'profilePic': 'entities/profilePhoto2.png',
